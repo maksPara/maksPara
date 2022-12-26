@@ -4,7 +4,6 @@ I graduated a JavaScript Developer course in Coders Lab school.
 I have entry-level experience in commercial front-end projects.
 
 I'm looking to collaborate on front-end projects and contribute to open source projects!
-
 📫 Reach me at maksparadowski@gmail.com
 
 <!---
