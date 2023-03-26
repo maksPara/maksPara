@@ -1,4 +1,4 @@
-I am a highly motivated Product Manager in the process of changing career path to become a full-time Software Developer.  
+I am a highly motivated Product Coordinator in the process of changing career path to become a full-time Software Developer.  
 Currently I'm focused on front-end programming, mainly JavaScript and React.  
 I graduated a JavaScript Developer course in Coders Lab school. 
 I have entry-level experience in commercial front-end projects. 
