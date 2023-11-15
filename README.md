@@ -1,7 +1,6 @@
-I am a highly motivated Product Coordinator in the process of changing career path to become a full-time Software Developer.  
-Currently I'm focused on front-end programming, mainly JavaScript and React.  
-I graduated a JavaScript Developer course in Coders Lab school. 
-I have entry-level experience in commercial front-end projects. 
+Graduated JavaScript Developer course in Coders Lab school. Acquired Front-end experience during 1-year Front-end Internship. 
+Previously, a mentee at Reskilled.io learning React + Typescript under Senior Developers' supervision. 
+Currently working as a UI Developer in Grid Dynamics.
 
 I'm looking to collaborate on front-end projects and contribute to open source projects!
 
