@@ -1,8 +1,8 @@
-Graduated JavaScript Developer course in Coders Lab school. Acquired Front-end experience during 1-year Front-end Internship. 
-Previously, a mentee at Reskilled.io learning React + Typescript under Senior Developers' supervision. 
-Currently working as a UI Developer in Grid Dynamics.
+👋 Hi, I’m Maks Paradowski, Front-End Developer working in Grid Dynamics
 
-I'm looking to collaborate on front-end projects and contribute to open source projects!
+👀 I’m interested in dancing, meditation and I love walking in nature
+🌱 I’m currently learning: Next.js, GraphQL, Storybook
+💞️ I'm looking to collaborate on front-end projects and contribute to open source projects!
 
 📫 Reach me at maksparadowski@gmail.com
 
